@@ -4,6 +4,15 @@ body {
     text-align: center;
 }
 
-h1 {
-    color: #333;
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.project {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
 }
